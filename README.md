@@ -1,4 +1,4 @@
-# Best Technology Choices for OpenGL & Vulkan
+# Technology used for OpenGL & Vulkan
 
 | Category        | OpenGL (C++) | OpenGL (Java) | Vulkan (C++)   | Vulkan (Java)    |
 |-----------------|--------------|---------------|----------------|------------------|
