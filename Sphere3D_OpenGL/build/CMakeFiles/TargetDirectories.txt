@@ -1,0 +1,3 @@
+C:/Users/user/Desktop/App/build/CMakeFiles/Sphere3D.dir
+C:/Users/user/Desktop/App/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/user/Desktop/App/build/CMakeFiles/ZERO_CHECK.dir
